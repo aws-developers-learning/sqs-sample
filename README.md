@@ -1,6 +1,9 @@
 # SQS - Producer and Listener
 
-There are two projects in this repository to show how SQS works with Spring.
+There are two projects in this repository to show how SQS works with Spring. We send a message via Producer, this message goes to SQS Queue and after that the Consumer reads this message.
+
+![image](https://github.com/aws-developers-learning/sqs-sample/assets/80427803/2aa809cf-e057-481c-a7bb-0f3d32de5984)
+
 
 ## Listener
 
